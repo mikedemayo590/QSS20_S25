@@ -2,5 +2,5 @@ practice_database:
   user: "qss20"
   password: "xtPdDZHnxKMFSD5RyP"
   port: 3306
-  database: "sentencing"
+  database: "math_gencompare"
   host: "qss20-7570-db.c.dartmouth.edu"
